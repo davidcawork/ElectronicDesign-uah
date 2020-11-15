@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl work  \
+"../../../../prac_1.srcs/sources_1/new/counter16.vhd" \
+"../../../../prac_1.srcs/sim_1/new/tb_counter16.vhd" \
+
+# Do not sort compile order
+nosort
